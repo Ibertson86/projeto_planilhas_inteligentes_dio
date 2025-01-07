@@ -4,8 +4,6 @@ Projeto feito no Bootcamp DIO de planilha de Excel, com dashboard de entradas e 
 # Tecnologias utilizadas
 - Excel
 
-(https://github.com/user-attachments/files/18327465/Apresentacao1.pdf)
-
 
 
 
